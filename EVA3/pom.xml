@@ -12,16 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
      <dependencies>
-        <dependency>
-        <groupId>org.glassfish</groupId>
-        <artifactId>glassfish</artifactId>
-        <version>4.1.1</version>
-    </dependency>
-    <dependency>
-        <groupId>javax.servlet.jsp.jstl</groupId>
-        <artifactId>jstl</artifactId>
-        <version>1.2</version>
-    </dependency>
+        
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
